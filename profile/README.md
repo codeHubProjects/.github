@@ -5,10 +5,10 @@ Welcome to **CodeHUB**! We are a dynamic team specializing in mobile application
 ## Our Focus
 
 - **Mobile App Development**: We build cutting-edge mobile applications using the latest technologies, including Flutter, Swift, Kotlin, and more.
-  - ![Kotlin](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png) ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) ![Swift](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg) ![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
-  
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="100" height="100"/> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="100" height="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="100" height="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="100" height="100"/>
+
 - **Backend Services**: Our backend solutions are built with a focus on scalability, security, and performance, using technologies like Node.js, Django, Ruby on Rails, and others.
-  - ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg) ![Ruby on Rails](https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="100" height="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="100" height="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails" width="100" height="100"/>
 
 ## Projects
 
@@ -55,3 +55,4 @@ Get in Touch
 If you have any questions or want to reach out, feel free to contact us via email or join our community discussions.
 
 Happy coding!
+
